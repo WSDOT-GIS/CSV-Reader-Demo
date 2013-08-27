@@ -40,9 +40,9 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="map.html" />
-    <Content Include="Scripts\csv\csvArcGis.js" />
-    <Content Include="Scripts\csv\csvHtml.js" />
-    <Content Include="Scripts\csv\main.js" />
+    <Content Include="Scripts\CSV-Reader\csvArcGis.js" />
+    <Content Include="Scripts\CSV-Reader\csvHtml.js" />
+    <Content Include="Scripts\CSV-Reader\main.js" />
     <Content Include="Scripts\index.js" />
     <Content Include="Scripts\map.js" />
     <Content Include="Scripts\layerUtils\main.js" />

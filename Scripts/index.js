@@ -1,7 +1,7 @@
 ﻿/// <reference path="csv.js" />
 /*global require */
 /*jslint browser:true*/
-require(["csv/csvHtml"], function (CSV) {
+require(["CSV-Reader/csvHtml"], function (CSV) {
 	"use strict";
 
 	// Check for the various File API support.
