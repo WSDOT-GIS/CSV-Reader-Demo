@@ -13,8 +13,3 @@ This is a sample appliation that reads a CSV table file and displays its content
 [Kirtan]:http://stackoverflow.com/users/83664/kirtan
 [require.js]:http://requirejs.org/
 [AMD]:https://github.com/amdjs/amdjs-api/wiki
-
-## License ##
-[The MIT License (MIT)](http://opensource.org/licenses/MIT)
-
-See [LICENSE](LICENSE) file for details.
